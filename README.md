@@ -30,7 +30,7 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Entomology-Books/blob/master/mol(16).pdf" style="text-decoration:none;">Fundamentals of Stored-Product Entomology</a></b></li>  
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Entomology-Books/blob/master/mol(17).pdf" style="text-decoration:none;">Industrial Entomology </a></b></li>                 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Entomology-Books/blob/master/mol(18).pdf" style="text-decoration:none;">Handbook of Urban Insects and Arachnids: A Handbook of Urban Entomology </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Entomology-Books/blob/master/mol(18).pdf" style="text-decoration:none;">Urban Insects and Arachnids: A Handbook of Urban Entomology </a></b></li> 
  
  
 
